@@ -18,10 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Deep learning
+  - Machine learning
   - Time series analysis
   - Complex systems
   - Computational medicine
+  - Open source code
 
 # Education to show in About widget
 education:
@@ -41,14 +42,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ThomasMBury
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
+    # icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=qAp4KBYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/thomas_bury_cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/thomas_bury_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'thomas.bury@mcgill.ca'
@@ -72,6 +72,5 @@ highlight_name: true
 ---
 
 Thomas Bury is a mathematician in the Department of Physiology at McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research has spanned many fields, including ecology, epidemiology, climate science and medicine. He is currently developing mathematical models and analysis tools to help decipher mechanisms of cardiac arrhythmia in patients.  
-
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
