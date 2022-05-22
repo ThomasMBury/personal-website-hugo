@@ -20,9 +20,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Machine learning
   - Time series analysis
-  - Complex systems
   - Computational medicine
-  - Open source code
+  - Responsible AI
+  - Open-source code
 
 # Education to show in About widget
 education:
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/thomas_bury_cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/thomas_bury_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'thomas.bury@mcgill.ca'
