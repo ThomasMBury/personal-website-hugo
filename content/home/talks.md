@@ -7,35 +7,20 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: 'Talks'
-subtitle:
+title: Talks
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ''
-    category: ''
-    tag: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ''
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+page_type: publication
 
 design:
   # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  view: compact
+  columns: '2'
 ---
+
+I was invited to a TEDx conference at the University of Toronto, where I gave an accessible overview of tipping points and how mathematical concepts can help us understand and control them.
+
+{{< youtube pfm7OqBVA6I >}}
+
+
