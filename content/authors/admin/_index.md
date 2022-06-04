@@ -71,6 +71,6 @@ email: 'thomas.bury@mcgill.ca'
 highlight_name: true
 ---
 
-Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently conducts research at the Department of Physiology, McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research has spanned many fields, including ecology, epidemiology, climate science and medicine. He is currently developing mathematical models and analysis tools to help decipher mechanisms of cardiac arrhythmia in patients.  
+Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research spans many fields, including ecology, epidemiology, climate science and medicine. He is currently developing tools to detect and classify cardiac arrhythmia in people.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

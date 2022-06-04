@@ -30,10 +30,11 @@ experience:
     location: Montréal, Québec
     date_start: '2020-01-31'
     description: |2-
-        - Analysing ECG data and developing mathematical models to improve understanding of the mechansim for premature ventricular contractions in a given patient.
-        - Using unsupervised learning algorithms to determine subtypes of arrhythmias involving premature ventricular contractions.
-        - Developed a dashboard to interactively view ECG data and derived statistics for a large cohort of patients.
+        - Recipient of the FRQNT Postdoctoral Research Scholarship.
         - Co-supervisor for 1 graduate and 2 undergraduate students.
+        - Employing unsupervised machine learning algorithms to reveal subtypes of ventricular arrhythmia.
+        - Constructing and analysing mathematical models for ventricular arrhythmia of diferent mechansims. 
+        - Developing dashboards in Plotly Dash to screen ECG and other health-related data, hosted on Compute Canada Cloud.
 
   - title: Course Instructor
     company: Quantitative Life Sciences, McGill University
@@ -43,9 +44,9 @@ experience:
     date_start: '2021-09-01'
     date_end: '2021-10-15'
     description: |2-
-        - Graduate-level course: Foundations of Quantitative Life Sciences, 15 students, 1 teaching assistant.
-        - Co-instructor for the module "Resetting and entraining of biological oscillators".
-        
+        - Course: "Foundations of Quantitative Life Sciences".
+        - Co-instructed 15 graduate students. Co-managed 1 teaching assistant.
+
 
   - title: Research Consultant
     company: School of Environmental Sciences, University of Guelph
@@ -56,7 +57,7 @@ experience:
     date_end: '2021-12-31'
     description: |2-
         - Wrote code to simulate and analyse mathematical models for birdsong.
-        - Created figures to feature in the book "Parasitic Oscillations" by Dr. Madhur Anand published by Penguin Random House.
+        - Created figures to feature in the book "Parasitic Oscillations" by Dr. Madhur Anand, published by Penguin Random House.
 
 
   - title: Doctoral Researcher
@@ -68,10 +69,10 @@ experience:
     date_end: '2020-01-31'
     description: |2-
         - <a href="https://uwspace.uwaterloo.ca/handle/10012/15531" target="_blank">Thesis</a>: "Detecting and distinguishing transitions in ecological systems: model and data-driven approaches"
-        - Developed methodology and an open-access <a href="https://github.com/ThomasMBury/ewstools" target="_blank">Python package</a> on detecting tipping points (bifurcations) in time series data.
+        - Developed methodology and an open-source <a href="https://github.com/ThomasMBury/ewstools" target="_blank">Python package</a> on detecting tipping points (bifurcations) in time series data.
         - Tested methodology with climate, ecological, geological and engineering datasets.
-        - Published first-author papers in prestigious journals including PNAS, Journal of the Royal Society Interface, and PLOS Comp. Biology.
-        
+        - Published as first-author in leading journals including PNAS, Journal of the Royal Society Interface, and PLOS Comp. Biology.
+
   - title: Course Instructor
     company: Faculty of Mathematics, University of Waterloo
     company_url: 'https://uwaterloo.ca/math/'
@@ -80,8 +81,9 @@ experience:
     date_start: '2018-09-01'
     date_end: '2018-12-31'
     description: |2-
-        - Undergraduate-level course: Calculus I for the Sciences, 115 students, 1 teaching assistant.
-        - Student evaluations: Very strong (>4.5/5 average for each teaching aspect)
+        - Course: "Calculus I for the Sciences"
+        - Instructed 115 undergradute students. Managed 1 teaching assistant.
+        - Received strong student evaluations (>4.5/5 average for each teaching aspect).
 
 
   - title: Summer Research Intern
