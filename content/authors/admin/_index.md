@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Applied Mathematics
-      institution: University of Waterloo
+      institution: University of Waterloo, Canada
       year: 2020
     - course: MMath in Mathematics and Theoretical Physics
-      institution: University of Cambridge
+      institution: University of Cambridge, UK
       year: 2015
     - course: BA in Mathematics
-      institution: University of Cambridge
+      institution: University of Cambridge, UK
       year: 2014
 
 # Social/Academic Networking
