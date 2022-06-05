@@ -27,7 +27,7 @@ I was invited to a TEDx conference at the University of Toronto, where I gave an
 
 <br><br><br>
 
-<h2> Three-minute thesis, University of Waterloo </h2>
+<h2> Three-Minute Thesis, University of Waterloo </h2>
 
 A short summary of my PhD research at the finals of the Three-Minute Thesis competition.
 
