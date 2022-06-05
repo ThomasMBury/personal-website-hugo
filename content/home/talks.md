@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Talks
+title: Public talks
 
 page_type: publication
 
@@ -19,8 +19,17 @@ design:
   columns: '2'
 ---
 
-I was invited to a TEDx conference at the University of Toronto, where I gave an accessible overview of tipping points and how mathematical concepts can help us understand and control them.
+<h2> TEDx conference </h2>
+
+I was invited to a TEDx conference at the University of Toronto, where I gave an accessible overview of tipping points and how mathematics can help us understand and detect them.
 
 {{< youtube pfm7OqBVA6I >}}
 
+<br><br><br>
+
+<h2> Three-minute thesis, University of Waterloo </h2>
+
+A short summary of my PhD research at the finals of the Three-Minute Thesis competition.
+
+{{< youtube UQ1nW9PNil8 >}}
 
