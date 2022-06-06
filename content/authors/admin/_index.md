@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: "/uploads/thomas_bury_cv.pdf"
+    link: 'https://www.thomasbury.net/uploads/thomas_bury_cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'thomas.bury@mcgill.ca'

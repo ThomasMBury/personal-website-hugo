@@ -4,17 +4,18 @@
 widget: pages
 
 # This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 50
+headless: false
 
 title: Publications
 subtitle: ''
 
+# Position of this section on the page
+weight: 60
+
 content:
-  # Filter on criteria
+  # Filter content to display
   filters:
+    # The folders to display content from
     folders:
       - publication
     tag: ''
@@ -25,13 +26,17 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 10
   # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
 design:
-  # Choose a view for the listings:
-  view: citation
+  # Choose a listing view
+  view: compact
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+
 ---

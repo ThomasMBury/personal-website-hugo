@@ -7,6 +7,7 @@ authors: []
 tags: [deep learning, tipping point, bifurcation, time series, python, tensorflow]
 categories: []
 date: 2022-06-05T14:24:52-04:00
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -18,7 +19,11 @@ image:
 
 ---
 
-some text goes heresaj fl;aj fkldj a;lfj 
+some text goes here.
+
+<h3> Relevant publications </h3>
+
+
 
 
 
