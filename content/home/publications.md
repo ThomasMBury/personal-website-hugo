@@ -6,7 +6,7 @@ widget: pages
 # This file represents a page section.
 headless: false
 
-title: Publications
+title: Selected publications
 subtitle: ''
 
 # Position of this section on the page

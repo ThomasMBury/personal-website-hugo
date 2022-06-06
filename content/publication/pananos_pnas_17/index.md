@@ -18,17 +18,28 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+links:
+  - name: Article
+    url: "https://www.pnas.org/doi/10.1073/pnas.1704093114"
+  - name: CBC
+    url: 'https://www.cbc.ca/news/canada/kitchener-waterloo/measles-vaccine-disease-outbreak-social-media-trend-1.4443217'
+  - name: ScienceDaily
+    url: "https://www.sciencedaily.com/releases/2017/12/171211152819.htm"
+
+
+
 projects: []
 publishDate: '2022-05-23T16:03:36.916915Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Proceedings of the National Academy of Sciences*'
+share: false
+
+
+abstract: 'Complex adaptive systems exhibit characteristic dynamics near tipping points such as critical slowing down (declining resilience to perturbations). We studied Twitter and Google search data about measles from California and the United States before and after the 2014–2015 Disneyland, California measles outbreak. We find critical slowing down starting a few years before the outbreak. However, population response to the outbreak causes resilience to increase afterward. A mathematical model of measles transmission and population vaccine sentiment predicts the same patterns. Crucially, critical slowing down begins long before a system actually reaches a tipping point. Thus, it may be possible to develop analytical tools to detect populations at heightened risk of a future episode of widespread vaccine refusal.'
+
+
 ---
