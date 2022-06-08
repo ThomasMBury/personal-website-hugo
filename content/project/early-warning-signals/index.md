@@ -1,20 +1,36 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Early warning signals for tipping points"
+title: "Tipping points"
 summary: ""
 authors: []
 tags: [deep learning, tipping point, bifurcation, time series, python, tensorflow]
 categories: []
 date: 2022-06-05T14:24:52-04:00
+
+
+show_date: false
+reading_time: false
 share: false
+profile: true
+commentable: false
+editable: false
+pager: false
+show_related: false
+show_breadcrumb: false
+math: true
+highlight: true
+
+# Project summary to display on homepage.
+summary: "Development of mathematical tools to help detect tipping points in complex systems"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Photo by Bekir Dönmez on Unsplash"
-  focal_point: Right
+  focal_point: ""
   preview_only: false
 
 ---
@@ -22,18 +38,3 @@ image:
 some text goes here.
 
 <h3> Relevant publications </h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
