@@ -30,7 +30,7 @@ links:
     url: 'https://www.thomasbury.net/uploads/bury_chaos_20/slides.pdf'
 
 share: false
-projects: []
+projects: ['cardiac-dynamics']
 publishDate: '2022-05-23T16:03:36.593382Z'
 publication_types:
 - '2'

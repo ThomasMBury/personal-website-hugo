@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Public talks
 
@@ -32,4 +32,3 @@ I was invited to a TEDx conference at the University of Toronto, where I gave an
 A short summary of my PhD research at the finals of the Three-Minute Thesis competition.
 
 {{< youtube UQ1nW9PNil8 >}}
-

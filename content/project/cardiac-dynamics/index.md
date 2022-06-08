@@ -8,6 +8,7 @@ tags: [cardiac arrhythmia, electrocardiogram, time series, machine learning]
 categories: []
 date: 2022-06-05T14:24:52-04:00
 
+weight: 2
 
 show_date: false
 reading_time: false
@@ -22,7 +23,7 @@ math: true
 highlight: true
 
 # Project summary to display on homepage.
-summary: "Classification of arrhythmia for patients with frequent premature ventricular complexes."
+summary: "Classification of mechanism in patients with frequent premature ventricular complexes."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

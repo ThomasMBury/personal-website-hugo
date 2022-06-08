@@ -7,10 +7,12 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-title: Projects
+title: Research areas
 subtitle: ''
+
+
 
 content:
   # Page type to display. E.g. project.

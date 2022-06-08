@@ -34,7 +34,7 @@ links:
 
 
 
-projects: []
+projects: ['socio-climate']
 publishDate: '2022-05-23T16:03:37.066679Z'
 publication_types:
 - '2'

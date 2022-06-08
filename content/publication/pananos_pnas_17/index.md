@@ -30,7 +30,7 @@ links:
 
 
 
-projects: []
+projects: ['early-warning-signals']
 publishDate: '2022-05-23T16:03:36.916915Z'
 publication_types:
 - '2'
