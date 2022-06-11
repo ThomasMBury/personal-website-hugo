@@ -37,7 +37,7 @@ links:
 
 
 share: false
-projects: ['early-warning-signals']
+projects: []
 
 publishDate: '2022-05-23T16:03:36.421611Z'
 publication_types:

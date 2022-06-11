@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: '2019-01-01'
 lastmod: 2022-05-23T12:03:37-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -34,7 +34,7 @@ links:
 
 
 
-projects: ['socio-climate']
+projects: []
 publishDate: '2022-05-23T16:03:37.066679Z'
 publication_types:
 - '2'

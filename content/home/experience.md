@@ -30,11 +30,11 @@ experience:
     location: Montréal, Québec
     date_start: '2020-01-31'
     description: |2-
-        - Recipient of the FRQNT Postdoctoral Research Scholarship.
-        - Co-supervisor for 1 graduate and 2 undergraduate students.
-        - Employing unsupervised machine learning algorithms to reveal subtypes of ventricular arrhythmia.
-        - Constructing and analysing mathematical models for ventricular arrhythmia of diferent mechansims. 
-        - Developing dashboards in Plotly Dash to screen ECG and other health-related data, hosted on Compute Canada Cloud.
+        - Pre-processed ECG data from 12,241 patients from 6 different medical institutions using cloud resources in work partnered with cardiologists.
+        - Implemented unsupervised machine learning (k-means) and dimension reduction techniques (UMAP, t-SNE, PCA) to deduce subtypes of ventricular arrhythmia.
+        - Developed interactive dashboards in Plotly Dash to screen ECG and other health-related data, hosted on Compute Canada Cloud.
+        - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum).
+        - Supervised 1 graduate and 2 undergraduate students. Project trained a reinforcement learning agent in Tensorflow to generate an arrhythmia with minimal stimulus.
 
   - title: Course Instructor
     company: Quantitative Life Sciences, McGill University
@@ -56,9 +56,8 @@ experience:
     date_start: '2021-03-31'
     date_end: '2021-12-31'
     description: |2-
-        - Wrote code to simulate and analyse mathematical models for birdsong.
+        - Simulated and analysed mathematical models for birdsong.
         - Created figures to feature in the book "Parasitic Oscillations" by Dr. Madhur Anand, published by Penguin Random House.
-
 
   - title: Doctoral Researcher
     company: Dept. of Applied Mathematics, University of Waterloo
@@ -68,10 +67,11 @@ experience:
     date_start: '2015-09-01'
     date_end: '2020-01-31'
     description: |2-
-        - <a href="https://uwspace.uwaterloo.ca/handle/10012/15531" target="_blank">Thesis</a>: "Detecting and distinguishing transitions in ecological systems: model and data-driven approaches"
-        - Developed methodology and an open-source <a href="https://github.com/ThomasMBury/ewstools" target="_blank">Python package</a> on detecting tipping points (bifurcations) in time series data.
-        - Tested methodology with climate, ecological, geological and engineering datasets.
+        - <a href="https://uwspace.uwaterloo.ca/handle/10012/15531" target="_blank">Thesis</a>: "Detecting and distinguishing transitions in ecological systems: model and data-driven approaches".
+        - Developed methodology and an open-source <a href="https://github.com/ThomasMBury/ewstools" target="_blank">Python package</a> for detecting tipping points (bifurcations) in time series data.
+        - Tested methodology with climate, ecological, geological and engineering datasets, which outperformed traditional methods.
         - Published as first-author in leading journals including PNAS, Journal of the Royal Society Interface, and PLOS Comp. Biology.
+        - Presented work at international conferences including TEDx, Soc. for Mathematical Biology, and Canadian Soc. of Applied and Industrial Mathematics.
 
   - title: Course Instructor
     company: Faculty of Mathematics, University of Waterloo
@@ -81,8 +81,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2018-12-31'
     description: |2-
-        - Course: "Calculus I for the Sciences"
-        - Instructed 115 undergradute students. Managed 1 teaching assistant.
+        - “Calculus I for the Sciences”.  115 undergraduate students, 1 teaching assistant.
         - Received strong student evaluations (>4.5/5 average for each teaching aspect).
 
 

@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: '2017-01-01'
 lastmod: 2022-05-23T12:03:37-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ links:
 
 
 
-projects: ['early-warning-signals']
+projects: []
 publishDate: '2022-05-23T16:03:36.916915Z'
 publication_types:
 - '2'
