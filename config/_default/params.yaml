@@ -8,11 +8,10 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: M
+  font: tmb_fonts
+  font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Person

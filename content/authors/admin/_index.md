@@ -45,9 +45,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ThomasMBury
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   - icon: google-scholar
-    # icon_pack: fas
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=qAp4KBYAAAAJ&hl=en&oi=ao
   - icon: github
@@ -55,14 +53,19 @@ social:
     link: https://github.com/ThomasMBury
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/thomas-bury/
+    link: https://www.linkedin.com/in/thomas-bury
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@thomasbury
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: 'https://www.thomasbury.net/uploads/thomas_bury_cv.pdf'
+#  - icon: cv
+#    icon_pack: ai
+#    link: 'https://www.thomasbury.net/uploads/thomas_bury_cv.pdf'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'thomas.bury@mcgill.ca'
@@ -71,6 +74,6 @@ email: 'thomas.bury@mcgill.ca'
 highlight_name: true
 ---
 
-Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research spans many fields, including ecology, epidemiology, climate science and medicine. He is currently developing tools to detect and classify cardiac arrhythmia in people.
+Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research spans many fields, including ecology, epidemiology, climate science and medicine. He is currently developing tools to detect and classify cardiac arrhythmia in people. Besides research, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of courses.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

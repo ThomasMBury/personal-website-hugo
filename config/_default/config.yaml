@@ -26,6 +26,7 @@ module:
   imports:
     - path: wowchemy-cms
     - path: wowchemy
+    - path: custom-wowchemy-theme
 
 ############################
 ## ADVANCED

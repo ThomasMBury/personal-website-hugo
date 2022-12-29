@@ -10,7 +10,7 @@ title: Selected publications
 subtitle: ''
 
 # Position of this section on the page
-weight: 60
+weight: 45
 
 content:
   # Filter content to display
